@@ -12,6 +12,13 @@ From a command prompt, run the following commands:
     git clone https://github.com/jbuck2005/telegraf_speedtest
     cd telegraf_speedtest
     chmod 700 telegraf_speedtest_setup.sh
+
+## download just the script & run it:
+
+From a command prompt, run the following commands:
+
+    wget --content-disposition https://raw.githubusercontent.com/jbuck2005/telegraf_speedtest/main/telegraf_speedtest_setup.sh
+    chmod 700 telegraf_speedtest_setup.sh
     
 If you want to make any changes to the configuration, be sure to edit the variables (top of script) by running:
 
