@@ -5,7 +5,7 @@ I created this script because I fought through making this integration work and 
 To be successful, you will need superuser permissions (ie. sudo) which you should already have.<br><br>
 <b>Be sure to read through my script before you execute any part of it - never run a script from the internet unless you trust the source!!</b><br>
 
-## clone & run the installation script:
+## clone & run the installation script: (option #1)
 
 From a command prompt, run the following commands:
 
@@ -13,7 +13,7 @@ From a command prompt, run the following commands:
     cd telegraf_speedtest
     chmod 700 telegraf_speedtest_setup.sh
 
-## download just the script & run it:
+## download just the script & run it: (option #2)
 
 From a command prompt, run the following commands:
 
