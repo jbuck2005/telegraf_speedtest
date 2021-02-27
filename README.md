@@ -1,7 +1,8 @@
 # telegraf_speedtest
 
-This bash script will help you install the Ookla Speedtest CLI executable and integrate automated speed tests into Telegraf.<br>
-In order to be successful, you will need superuser permissions (ie. sudo) which you should already have.<br>
+This bash script will help you install the <a href="https://www.speedtest.net/apps/cli">Ookla Speedtest CLI executable</a> and integrate automated speed tests into <a href="https://www.influxdata.com/time-series-platform/telegraf/">Telegraf</a>.<br><br>
+I created this script because I fought through making this integration work and was not satisfied with the resources available (some of which are on Git). My hope is that this bash script makes Speedtest integration effortless, as it should be!<br><br>
+To be successful, you will need superuser permissions (ie. sudo) which you should already have.<br><br>
 <b>Be sure to read through my script before you execute any part of it - never run a script from the internet unless you trust the source!!</b><br>
 
 ## clone & run the installation script:
