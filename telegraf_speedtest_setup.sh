@@ -51,7 +51,7 @@ echo -e "Installing gnupg1 apt-transport-https dirmngr\n"
 sudo apt-get install gnupg1 apt-transport-https dirmngr				# install supporting packages via apt
 echo "deb https://ookla.bintray.com/debian generic main" | sudo tee  /etc/apt/sources.list.d/speedtest.list	# add ookla repository to an apt sources file
 sudo apt-get update								# update apt so that newly added repository can be drawn from
-echo -e "Removing conflicting speedtest packagei (if it exists)\n"
+echo -e "Removing conflicting speedtest package (if it exists)\n"
 sudo apt-get remove speedtest-cli						# as per Ookla instructions, other CLI may interfere with operation of official client
 echo -e "Installing Ookla speedtest client\n"
 sudo apt-get install speedtest							# install the client package from the Ookla repo
