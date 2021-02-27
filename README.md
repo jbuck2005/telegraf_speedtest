@@ -2,7 +2,7 @@
 
 This bash script will help you install the Ookla Speedtest CLI executable and integrate automated speed tests into Telegraf.<br>
 In order to be successful, you will need superuser permissions (ie. sudo) which you should already have.<br>
-<b>Be sure to read through my script before you execute any part of it - never run a script from the internet unless you trust the source!!<b><br>
+<b>Be sure to read through my script before you execute any part of it - never run a script from the internet unless you trust the source!!</b><br>
 
 ## clone & run the installation script:
 
