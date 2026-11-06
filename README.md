@@ -35,3 +35,7 @@ Of particular interest may be:
 Once you are content with the configuration, and you have read through the script to ensure that I have not coded anything nefarious into the shell script, execute it  as follows:
 
     ./telegraf_speedtest_setup.sh
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
